@@ -1,4 +1,4 @@
-#include "moain.h"
+#include "main.h"
 /**
 * free_stack - frees a doubly linked list
 * @head: head of the stack
